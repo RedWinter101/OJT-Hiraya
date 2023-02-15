@@ -1,0 +1,4 @@
+virtual env -- py -3 -m venv venv
+		activate -- venv/Scripts/activate
+
+flask -- 2.2.2
